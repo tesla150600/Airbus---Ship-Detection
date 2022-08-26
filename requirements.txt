@@ -1,0 +1,9 @@
+numpy == 1.21.5
+pandas == 1.4.2
+matplotlib == 3.5.1
+tensorflow == 2.8.0
+keras == 2.8.0
+skimage == 0.19.2
+sklearn == 1.0.2
+PIL == 9.0.1
+
