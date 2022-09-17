@@ -1,4 +1,4 @@
-# Airbus---Ship-Detection
+# Airbus-Ship-Detection
 
 In this project,need to build a semantic segmentation model using the unet architecture to search for ships on a satellite photo.
 
